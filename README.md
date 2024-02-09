@@ -2,7 +2,7 @@
 <p align="center">
 
 <h1 align="center">
-  <b> 𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑 𝐁𝐎𝐓</b>
+  <b> ᴀᴜᴛᴏғɪʟᴛᴇʀ ʙᴏᴛ </b>
 </h1>
 
 [![Stars](https://img.shields.io/github.com/BOTMAKERS8/BOTMAKERS8-AUTO-FILTER-BOT-V1T?style=flat-square&color=yellow)](https://github.com/BOTMAKERS8/AUTO-FILTER-BOT-V1/stargazers)
